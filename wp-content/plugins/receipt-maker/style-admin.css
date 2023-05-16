@@ -1,0 +1,75 @@
+.widefat {width: 100%;}
+.ss-list-width {min-width:10%}
+.ss-form-width {width:100%}
+.ss-th-width {width:25%}
+.ss-field-width {width:75%}
+
+.nameBlock{
+    color: #2c3e50;
+}
+
+.tablenav{
+    height: auto;
+}
+
+.padding10{
+    padding-bottom: 10px;
+}
+
+table td {
+    border: 2px solid #ccc;
+    text-align: center;
+    vertical-align: middle !important;
+    font-size: 16px !important;
+}
+
+#tableHeader{
+    background: #1d2327 !important;
+    border-collapse: collapse;
+    height: 50px;
+}
+
+.manage-column{
+    height: 35px !important;
+}
+
+#tableHeader .mini {
+    width: 3% !important;
+}
+
+#tableHeader .avg {
+    width: 7% !important;
+}
+
+#tableHeader .big {
+    width: 12% !important;
+}
+
+#tableHeader th {
+    padding: 5px;
+    color: #fff !important;
+    font-size: 18px !important;
+    text-align: center;
+    font-size: 20px;
+    border: 2px solid #ccc;
+}
+
+.formPosition{
+    width: 75%;
+    margin-top: 20px;
+    border: 2px solid #1d2327;
+    background: #ccc;
+    padding: 15px;
+}
+
+.short-info-block{
+    display: flex;
+    justify-content: space-between;
+}
+.short-info-block div{
+   width: 30%;
+}
+
+.full-receipt-block textarea{
+    width: 100%;
+}
